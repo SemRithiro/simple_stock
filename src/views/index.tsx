@@ -27,7 +27,7 @@ export default function Index() {
 								<Table.Row>
 									<Table.Cell textAlign={'center'} w={'100px'}>{i + 1}</Table.Cell>
 									<Table.Cell w={'100px'}>
-										<Image borderRadius={'5px'} h={'70px'} src={product.image} />
+										<Image borderRadius={'5px'} w={'70px'} src={product.image} />
 									</Table.Cell>
 									<Table.Cell>
 										<Link href={product.link} target={'_blank'}>
