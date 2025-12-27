@@ -1,6 +1,6 @@
 {
-    "name": "products",
-    "homepage": "https://semrithiro.github.io/products",
+    "name": "simple_stock",
+    "homepage": "https://semrithiro.github.io/simple_stock",
     "version": "1.0.0",
     "private": true,
     "dependencies": {

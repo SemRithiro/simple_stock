@@ -5,7 +5,7 @@ import Index from './views';
 
 export default function Router() {
 	return (
-		<BrowserRouter basename='/products'>
+		<BrowserRouter basename='/simple_stock'>
 			<Routes>
 				<Route path='/' element={<Index />} />
 
