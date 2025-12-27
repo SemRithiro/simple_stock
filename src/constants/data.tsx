@@ -2,7 +2,7 @@ import { product } from '@/types';
 
 const products: product[] = [
 	{
-		"name": "Nail free screw adhesive",
+		"name": "Nail free screw adhesive (M3 8mm)",
 		"nameKh": "ស្កុតវ៉ីស",
 		"image": "https://gw.alicdn.com/bao/uploaded/i3/2218429545398/O1CN01chwsK31pkKxIXy8OT_!!2218429545398.jpg_.webp",
 		"link": "https://detail.tmall.com/item.htm?from=cart&id=836519829679&mi_id=0000gdLTtWprFJQgxy8U7DBKVnjIPBY8q0VGtSiSx4kREgc&skuId=5762311107551&spm=a1z0d.6639537%2F202410.item.d836519829679.46587484ZpxxHv&upStreamPrice=4120",
